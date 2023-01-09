@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @KyleMcGregor
-- 👀 I’m interested in Knowledge
-- 🌱 I’m currently learning C, Advanced Algorithms, Computer Science...
-- 💞️ I’m looking to collaborate on Inverted DB schema for EAVCR validation on Apache
-- 📫 How to reach me kyle.mcgregor@hotmail.com
+Hello, thank you for viewing my profile. 
+I am currently in the process of moving my life over to GH. 
+Interests: 
+  -Systems Programming (compilers, validators)
+  -Applied Algorithms
+  -Performant Enterprise Software 
+  -DevOps
+  -Computer Graphics
+  -Supercomputing and physical simulation
+  
+  
